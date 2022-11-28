@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "islam",
+        "age" : 26 ,
+        "city" : true
+    },
+    {
+        "name" :  "function (){}" ,
+        "age" : null ,
+        "city" : [ "cairo" , "alex"]
+    },
+    {
+        "name" : "undefined" ,
+        "age" :  "20 / 10 / 2022" ,
+        "city" : {   } 
+    }
+
+]
+
+{}
+//   number  string   true   null  []   { }
+
+//    date   undefined  - function 

@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.list{
+    width: 200px;
+    margin:auto;
+    border: 2px solid grey;
+    background-color: rgb(25, 238, 107);
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+#content{
+    width: 500px;
+height: 200px;
+  
+    border: 2px solid grey;
+    background-color: rgb(146, 165, 153);
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+ .list li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+
+#addToCart{
+    width: 120px;
+ padding: 10px;
+    border-radius: 2px solid grey;
+   background-color: rgb(159, 177, 171);
+   text-align: center;
+   margin-left: 10px;
+   margin: 20px auto;
+
+
+ 
+}
+.total_price{
+    width: 120px;
+padding: 10px;
+
+   background-color: aquamarine;
+   text-align: center;
+   margin: 20px auto;
+   border-radius: 10px;
+
+ 
+}
+
